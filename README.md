@@ -4,8 +4,8 @@ My data is more than 500MB, which is too big to upload, but I can upload the des
 And when you download the data from Kaggle, you have to rename it to "payment_data.csv", sorry for the inconvenience.\
 link:\
 https://www.kaggle.com/ntnu-testimon/paysim1
-\n
-And what I add include the report, ipynb and html (for code), PowerPoint, description dataset, \
+
+\And what I add include the report, ipynb and html (for code), PowerPoint, description dataset, \
                            kaggle link with the original dataset, \
                            and the four visualization graph of decision tree and random forest\
                            (the other visualization graph is in the code part)\
